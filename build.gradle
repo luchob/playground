@@ -1,0 +1,9 @@
+subprojects  {
+	
+	repositories {
+		jcenter()
+	}
+
+   apply plugin: 'eclipse'
+   apply plugin: 'java'
+}

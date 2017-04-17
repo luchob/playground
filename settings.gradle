@@ -1,0 +1,3 @@
+rootProject.name = 'misc'
+
+include 'euler', 'guice'
