@@ -25,7 +25,8 @@ public class ProblemsTest {
 					param(232792560, new Problem005()),
 					param(25164150, new Problem006()),
 					param(104743, new Problem007()),
-					param(23514624000L, new Problem008())
+					param(23514624000L, new Problem008()),
+					param(31875000, new Problem009())
 				});
 	}
 
