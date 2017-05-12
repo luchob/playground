@@ -24,7 +24,7 @@ They largely vary in difficulty. I just store my solutions here. I'm not a keen 
 
 ## VMWare Java Beer event
 
-The kind hosts of the regular [Java Beer Event](http://java.beer/event/view/10) gave this friendly task to anyone willing at the entrance. The question is what will be printed in the output. Answer is 0 and 42.
+The kind hosts of the regular [Java Beer Event](http://java.beer/event/view/10) - [VMWare](http://vmware.com/) - gave this friendly task to anyone willing at the entrance. The question is what will be printed in the output. Answer is 0 and 42.
 
 
 ```
