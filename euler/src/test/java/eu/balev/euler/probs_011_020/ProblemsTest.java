@@ -16,7 +16,8 @@ public class ProblemsTest extends AbstractProblemsTest {
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][]
                 {
-                        param(70600674, new Problem011())
+                        param(70600674, new Problem011()),
+                        param(76576500, new Problem012())
                 });
     }
 }
